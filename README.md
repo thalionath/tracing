@@ -11,3 +11,7 @@ docker run -d --name jaeger \
   jaegertracing/all-in-one:latest
 
 Frontend: http://localhost:16686/
+
+ * https://github.com/opentracing/specification/blob/master/semantic_conventions.md#message-bus
+ * https://github.com/opentracing/specification/blob/master/specification.md#references-between-spans
+ * https://doc.esdoc.org/github.com/opentracing/opentracing-javascript/variable/index.html#static-variable-REFERENCE_FOLLOWS_FROM
