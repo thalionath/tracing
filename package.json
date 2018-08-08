@@ -1,0 +1,14 @@
+{
+  "name": "jaeger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Gruber",
+  "license": "ISC",
+  "dependencies": {
+    "jaeger-client": "^3.11.0"
+  }
+}
